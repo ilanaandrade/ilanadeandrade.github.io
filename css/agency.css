@@ -562,6 +562,9 @@ section#contact {
 section#contact .section-heading {
   color: white;
 }
+section#contact ul.list-inline.social-buttons{
+  margin-top: 100px;
+}
 section#contact .form-group {
   margin-bottom: 25px;
 }
